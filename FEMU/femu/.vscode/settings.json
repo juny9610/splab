@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "nvme.h": "c",
+        "ftl.h": "c",
+        "msix.h": "c",
+        "vhost.h": "c"
+    }
+}
